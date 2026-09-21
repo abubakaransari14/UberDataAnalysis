@@ -25,11 +25,10 @@ Pandas – Data cleaning & transformation
 
 NumPy – Numerical computations
 
-Matplotlib / Seaborn / Power BI / (Your Tool Name Here) – Visualization & Dashboarding
+Matplotlib / Seaborn / Power BI /  – Visualization & Dashboarding
 
 Jupyter Notebook
 
-(Update visualization tool if you used Power BI, Streamlit, etc.)
 
 📊 Key Metrics Analyzed
 
